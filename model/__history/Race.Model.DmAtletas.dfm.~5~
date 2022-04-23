@@ -1,0 +1,17 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 119
+  Width = 253
+  object qryAtletas: TFDQuery
+    Connection = ProvidersConnection.FDConnection
+    SQL.Strings = (
+      'select * from atletas')
+    Left = 56
+    Top = 24
+  end
+  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 152
+    Top = 24
+  end
+end

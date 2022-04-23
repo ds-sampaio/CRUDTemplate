@@ -1,0 +1,100 @@
+object FormPrincipal: TFormPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Race'
+  ClientHeight = 494
+  ClientWidth = 1013
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnMain: TPanel
+    Left = 0
+    Top = 0
+    Width = 1013
+    Height = 494
+    Align = alClient
+    BevelOuter = bvNone
+    Color = clInactiveBorder
+    ParentBackground = False
+    TabOrder = 0
+    object pnMenu: TPanel
+      Left = 0
+      Top = 0
+      Width = 97
+      Height = 494
+      Align = alLeft
+      BevelOuter = bvNone
+      ParentBackground = False
+      TabOrder = 0
+      object SpeedButton1: TSpeedButton
+        Left = 0
+        Top = 193
+        Width = 97
+        Height = 90
+        Align = alTop
+        Caption = 'Usuarios'
+        Flat = True
+        OnClick = SpeedButton1Click
+        ExplicitLeft = -6
+      end
+      object SpeedButton2: TSpeedButton
+        Left = 0
+        Top = 103
+        Width = 97
+        Height = 90
+        Align = alTop
+        Caption = 'Principal'
+        Flat = True
+        OnClick = SpeedButton2Click
+        ExplicitTop = 111
+      end
+      object pnLogo: TPanel
+        Left = 0
+        Top = 0
+        Width = 97
+        Height = 103
+        Align = alTop
+        BevelOuter = bvNone
+        ParentBackground = False
+        TabOrder = 0
+      end
+    end
+    object pnFull: TPanel
+      Left = 97
+      Top = 0
+      Width = 916
+      Height = 494
+      Align = alClient
+      BevelOuter = bvNone
+      ParentBackground = False
+      TabOrder = 1
+      object pnTop: TPanel
+        Left = 0
+        Top = 0
+        Width = 916
+        Height = 103
+        Align = alTop
+        BevelOuter = bvNone
+        ParentBackground = False
+        TabOrder = 0
+      end
+      object pnPrincipal: TPanel
+        Left = 0
+        Top = 103
+        Width = 916
+        Height = 391
+        Align = alClient
+        BevelOuter = bvNone
+        ParentBackground = False
+        TabOrder = 1
+      end
+    end
+  end
+end

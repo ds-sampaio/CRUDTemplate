@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/18 19:54:36.000.185,=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 19:56:54.000.608,E:\projetos-delphi\race\uPrincipal.pas=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 19:56:54.000.608,E:\projetos-delphi\race\uPrincipal.dfm=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/18 20:28:39.000.863,=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/18 20:31:08.000.304,E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Template.pas=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/18 20:31:08.000.304,E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Template.dfm=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/04/18 20:47:02.000.165,=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 20:48:06.000.731,E:\projetos-delphi\race\view\Race.View.Styles.Color.pas=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 20:56:41.000.214,E:\projetos-delphi\race\view\Race.View.Styles.ColorS.pas=E:\projetos-delphi\race\view\Race.View.Styles.Color.pas</Transaction>
+    <Transaction>2022/04/18 20:57:19.000.461,E:\projetos-delphi\race\view\Race.View.Styles.ColorS.pas=</Transaction>
+    <Transaction>2022/04/18 20:57:43.000.515,=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 20:58:06.000.257,E:\projetos-delphi\race\view\styles\Race.View.Styles.Colors.pas=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 21:14:33.000.756,E:\projetos-delphi\race\pRace.dproj=C:\Users\Daiane\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/18 21:23:24.000.482,=E:\projetos-delphi\race\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 21:24:13.000.991,E:\projetos-delphi\race\Unit1.dfm=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Principal.dfm</Transaction>
+    <Transaction>2022/04/18 21:24:13.000.991,E:\projetos-delphi\race\Unit1.pas=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Principal.pas</Transaction>
+    <Transaction>2022/04/18 21:30:53.000.206,=E:\projetos-delphi\race\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 21:31:29.000.771,E:\projetos-delphi\race\Unit1.pas=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Atletas.pas</Transaction>
+    <Transaction>2022/04/18 21:31:29.000.771,E:\projetos-delphi\race\Unit1.dfm=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Atletas.dfm</Transaction>
+    <Transaction>2022/04/18 21:36:38.000.052,=E:\projetos-delphi\race\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 21:37:08.000.284,E:\projetos-delphi\race\Unit1.pas=E:\projetos-delphi\race\view\routers\Race.View.Routers.pas</Transaction>
+    <Transaction>2022/04/20 20:47:53.000.038,E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Atletas.pas=</Transaction>
+    <Transaction>2022/04/20 21:10:26.000.498,=E:\projetos-delphi\race\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 21:11:05.000.608,E:\projetos-delphi\race\Unit1.dfm=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Atletas.dfm</Transaction>
+    <Transaction>2022/04/20 21:11:05.000.608,E:\projetos-delphi\race\Unit1.pas=E:\projetos-delphi\race\view\pages\Race.View.Pages.Form.Atletas.pas</Transaction>
+    <Transaction>2022/04/21 12:58:53.000.066,=E:\projetos-delphi\race\model\Providres.Connection.pas</Transaction>
+    <Transaction>2022/04/21 13:03:59.000.566,=E:\projetos-delphi\race\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 13:04:49.000.973,E:\projetos-delphi\race\Unit1.pas=E:\projetos-delphi\race\model\Race.Model.DmAtletas.pas</Transaction>
+    <Transaction>2022/04/21 13:04:49.000.973,E:\projetos-delphi\race\Unit1.dfm=E:\projetos-delphi\race\model\Race.Model.DmAtletas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

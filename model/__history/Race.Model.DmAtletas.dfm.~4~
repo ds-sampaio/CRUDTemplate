@@ -1,0 +1,12 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 335
+  Width = 467
+  object qryAtletas: TFDQuery
+    Connection = ProvidersConnection.FDConnection
+    SQL.Strings = (
+      'select * from atletas')
+    Left = 200
+    Top = 144
+  end
+end
