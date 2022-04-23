@@ -1,5 +1,7 @@
 # CRUDTemplate
-Crud realizado em delphi com herança de formulário
+Crud realizado em delphi com herança de formulário.
+
+
 Este projeto está sendo realizado para fins de estudo.
 
 Instalar o boss e executar o comando Boss Install que 
